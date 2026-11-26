@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DZ SHarp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3c5f3ddea9005bebbe9cc7e7ccfab60487be45c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DZ SHarp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DZ SHarp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
